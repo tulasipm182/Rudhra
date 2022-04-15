@@ -5,7 +5,7 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="T҉e҉a҉m҉e҉ Z̶x̶ 20220326_220739.jpg" width="300" height="300"/>
+  <img border-radius: 15px src="https://ibb.co/VgyzhBt" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
